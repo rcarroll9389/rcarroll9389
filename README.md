@@ -1,6 +1,6 @@
  Hey there, I’m Ryan Carroll
- I’m currently a Data Analyst at the United States Agency for International Development (USAID)
- in the Office of HIV/AIDS. 
+ and currently a Data Analyst at the United States Agency for International Development (USAID)
+ in the Office of HIV/AIDS. I have been at USAID since May of 2020, and have held multiple data analyst roles through differenet government contracts while at the agency. 
  I have extensive experience analyzing health and economic data in support of international development programs, 
  alongside supporting ongoing USAID and US Government COVID-19 initiatives and interventions in USAID supported 
  countries
